@@ -1,0 +1,3296 @@
+{
+  "id": 1,
+  "updated": "2020-10-06T14:55:48.593Z",
+  "design": {
+    "settings": {
+      "templateId": 1,
+      "name": "Documento Business Requirements",
+      "submit": {
+        "lock": false,
+        "pdf": true
+      },
+      "language": "it_IT",
+      "html": false,
+      "clickableURLQuestions": false
+    },
+    "layout": [
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Obiettivi dell’iniziativa",
+                "marks": [
+                  {
+                    "type": "strong"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 4
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 595
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Contesto",
+                "marks": [
+                  {
+                    "type": "strong"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 12
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 16
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 579
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 457
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 458
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 459
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Elenco requisiti"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Elencare le singole specifiche desiderati di cui l’iniziativa è costituita. Su ogni singolo requisito occorre identificare la data di rilascio desiderata, il referente funzionale di riferimento e se il requisito è imprescindibile (Must Have) o opzionale (Nice to Have). Indicare inoltre il livello di continuità operativo richiesto."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": []
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 471
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 466
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 467
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 469
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 584
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 315
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 462
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 463
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 465
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": []
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 585
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 333
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 473
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 474
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 476
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 586
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 334
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 477
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 478
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 480
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": []
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 587
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 335
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 483
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 484
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 486
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": []
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 588
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 336
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 487
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 488
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 490
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 589
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 337
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 491
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 492
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 494
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": []
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 590
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 338
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 495
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 496
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 498
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 591
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 339
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 499
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 500
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 502
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 592
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 340
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 503
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 504
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 506
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 593
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 513
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 514
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 515
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 517
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": []
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 594
+              },
+              "layout": "default"
+            }
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 555
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "table",
+            "attrs": {
+              "isNumberColumnEnabled": false,
+              "layout": "default"
+            },
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        157
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 518
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        174
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 519
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "attrs": {
+                      "colwidth": [
+                        349
+                      ]
+                    },
+                    "content": [
+                      {
+                        "type": "extension",
+                        "attrs": {
+                          "extensionType": "com.thinktilt.proforma",
+                          "extensionKey": "question",
+                          "parameters": {
+                            "id": 521
+                          },
+                          "layout": "default"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": []
+          }
+        ]
+      },
+      {
+        "version": 1,
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": []
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Benefici Attesi"
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 29
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 30
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Allineamento obiettivi strategici"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Valutazione dell’orientamento dell'iniziativa agli obiettivi strategici di seguito individuati:"
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 580
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 581
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 582
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 583
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Note"
+              }
+            ]
+          },
+          {
+            "type": "extension",
+            "attrs": {
+              "extensionType": "com.thinktilt.proforma",
+              "extensionKey": "question",
+              "parameters": {
+                "id": 31
+              },
+              "layout": "default"
+            }
+          },
+          {
+            "type": "panel",
+            "attrs": {
+              "panelType": "warning"
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dopo aver cliccato il tasto"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Invia”",
+                    "marks": [
+                      {
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", la richiesta viene automaticamente salvata in versione “bozza”. Per procedere alle modifiche e all’invio dell’iniziativa occorre cliccare il pulsante "
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Modificare”",
+                    "marks": [
+                      {
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " e successivamente"
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Sottoscrivi“",
+                    "marks": [
+                      {
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eventuali"
+                  },
+                  {
+                    "type": "text",
+                    "text": " allegati ",
+                    "marks": [
+                      {
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "potranno essere inseriti nella sezione “commenti” in fondo alla schermata successiva."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "conditions": {
+      "472": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "585": [
+                "1",
+                "3"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "2"
+          ]
+        }
+      },
+      "481": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "586": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "3"
+          ]
+        }
+      },
+      "482": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "587": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "4"
+          ]
+        }
+      },
+      "507": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "589": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "6"
+          ]
+        }
+      },
+      "508": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "590": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "7"
+          ]
+        }
+      },
+      "509": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "588": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "5"
+          ]
+        }
+      },
+      "510": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "584": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "1"
+          ]
+        }
+      },
+      "511": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "591": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "8"
+          ]
+        }
+      },
+      "512": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "593": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "10"
+          ]
+        }
+      },
+      "556": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "594": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "11"
+          ]
+        }
+      },
+      "557": {
+        "t": "sh",
+        "i": {
+          "co": {
+            "cIds": {
+              "592": [
+                "1"
+              ]
+            }
+          }
+        },
+        "o": {
+          "sIds": [
+            "9"
+          ]
+        }
+      }
+    },
+    "sections": {
+      "1": {
+        "type": "b",
+        "name": "2. Requisito",
+        "conditions": [
+          "510"
+        ]
+      },
+      "2": {
+        "type": "b",
+        "name": "3. Requisito",
+        "conditions": [
+          "472",
+          "510"
+        ]
+      },
+      "3": {
+        "type": "b",
+        "name": "4. Requisito",
+        "conditions": [
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "4": {
+        "type": "b",
+        "name": "5. Requisito",
+        "conditions": [
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "5": {
+        "type": "b",
+        "name": "6. Requisito",
+        "conditions": [
+          "509",
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "6": {
+        "type": "b",
+        "name": "7. Requisito",
+        "conditions": [
+          "507",
+          "509",
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "7": {
+        "type": "b",
+        "name": "8. Requisito",
+        "conditions": [
+          "508",
+          "507",
+          "509",
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "8": {
+        "type": "b",
+        "name": "9. Requisito",
+        "conditions": [
+          "511",
+          "508",
+          "507",
+          "509",
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "9": {
+        "type": "b",
+        "name": "10. Requisito",
+        "conditions": [
+          "557",
+          "511",
+          "508",
+          "507",
+          "509",
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "10": {
+        "type": "b",
+        "name": "11. Requisito",
+        "conditions": [
+          "512",
+          "557",
+          "511",
+          "508",
+          "507",
+          "509",
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "11": {
+        "type": "b",
+        "name": "12. Requisito",
+        "conditions": [
+          "556",
+          "512",
+          "557",
+          "511",
+          "508",
+          "507",
+          "509",
+          "482",
+          "481",
+          "472",
+          "510"
+        ]
+      },
+      "12": {
+        "type": "b",
+        "name": "Benefici Attesi",
+        "conditions": []
+      }
+    },
+    "questions": {
+      "4": {
+        "type": "pg",
+        "label": "Descrizione dell'iniziativa",
+        "description": "Descrivere su “cosa” insisterà il progetto e di quali deliverable sarà costituito. Fornire un confine chiaro in termini di: aree funzionali, macro-funzionalità, processi impattati / rivisti, ecc. Specificare lo scopo dell'iniziativa",
+        "validation": {
+          "rq": false
+        },
+        "jiraField": "description",
+        "questionKey": ""
+      },
+      "12": {
+        "type": "pg",
+        "label": "Situazione AS-IS",
+        "description": "Descrizione del background e del contesto attuale. In questo campo è necessario descrivere la situazione su cui si intende intervenire in modo che chiunque, senza alcuna conoscenza del progetto, possa ben capire in quale area si intende intervenire e quali gap si vuole colmare",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "16": {
+        "type": "pg",
+        "label": "Relazione con altre iniziative  (Sinergie e Vincoli)",
+        "description": "Sinergie e/o vincoli con altri progetti. Elencare e descrivere: 1. eventuali sinergie con altri progetti (ottimizzazione dell’impiego di risorse, soluzioni a beneficio di più progetti, soluzioni tecniche comuni, ottimizzazione piani di roll out, ecc; 2. Vincoli derivanti da altri progetti (dipendenze in termini tecnici, di sequenza temporale, limitazioni imposte dai deliverable di altri Progetti, ecc.) ",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "29": {
+        "type": "pg",
+        "label": "Benefici Qualitativi dell'iniziativa",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "30": {
+        "type": "pg",
+        "label": "Benefici Quantitativi dell'iniziativa",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "31": {
+        "type": "pg",
+        "label": "Note",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "315": {
+        "type": "pg",
+        "label": "2. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "333": {
+        "type": "pg",
+        "label": "3. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "334": {
+        "type": "pg",
+        "label": "4. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "335": {
+        "type": "pg",
+        "label": "5. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "336": {
+        "type": "pg",
+        "label": "6. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "337": {
+        "type": "pg",
+        "label": "7. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "338": {
+        "type": "pg",
+        "label": "8. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "339": {
+        "type": "pg",
+        "label": "9. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "340": {
+        "type": "pg",
+        "label": "10. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "457": {
+        "type": "da",
+        "label": "Data desiderata di rilascio dell'iniziativa",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "jiraField": "customfield_10220",
+        "questionKey": ""
+      },
+      "458": {
+        "type": "cd",
+        "label": "Priorità Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "jiraField": "customfield_10344",
+        "questionKey": ""
+      },
+      "459": {
+        "type": "cd",
+        "label": "Coinvolgimento di Centrico ",
+        "description": "Valutazione del richiedente circa l’eventuale coinvolgimento dell’Outsourcer Centrico (e dei suoi sistemi). Una valutazione speculare verrà effettuata anche dall’area IT",
+        "validation": {
+          "rq": false
+        },
+        "jiraField": "customfield_10515",
+        "questionKey": ""
+      },
+      "462": {
+        "type": "da",
+        "label": "2. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "463": {
+        "type": "um",
+        "label": "2. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "465": {
+        "type": "cd",
+        "label": "2. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "466": {
+        "type": "da",
+        "label": "1. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "467": {
+        "type": "um",
+        "label": "1. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "469": {
+        "type": "cd",
+        "label": "1. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "471": {
+        "type": "pg",
+        "label": "1. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "473": {
+        "type": "da",
+        "label": "3. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "474": {
+        "type": "um",
+        "label": "3. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "476": {
+        "type": "cd",
+        "label": "3. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "477": {
+        "type": "da",
+        "label": "4. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "478": {
+        "type": "um",
+        "label": "4. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "480": {
+        "type": "cd",
+        "label": "4. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "483": {
+        "type": "da",
+        "label": "5. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "484": {
+        "type": "um",
+        "label": "5. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "486": {
+        "type": "cd",
+        "label": "5. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "487": {
+        "type": "da",
+        "label": "6. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "488": {
+        "type": "um",
+        "label": "6. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "490": {
+        "type": "cd",
+        "label": "6. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "491": {
+        "type": "da",
+        "label": "7. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "492": {
+        "type": "um",
+        "label": "7. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "494": {
+        "type": "cd",
+        "label": "7. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "495": {
+        "type": "da",
+        "label": "8. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "496": {
+        "type": "um",
+        "label": "8. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "498": {
+        "type": "cd",
+        "label": "8. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "499": {
+        "type": "da",
+        "label": "9. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "500": {
+        "type": "um",
+        "label": "9. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "502": {
+        "type": "cd",
+        "label": "9. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "503": {
+        "type": "da",
+        "label": "10. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "504": {
+        "type": "um",
+        "label": "10. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "506": {
+        "type": "cd",
+        "label": "10. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "513": {
+        "type": "pg",
+        "label": "11. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "514": {
+        "type": "da",
+        "label": "11. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "515": {
+        "type": "um",
+        "label": "11. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "517": {
+        "type": "cd",
+        "label": "11. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "518": {
+        "type": "da",
+        "label": "12. Dt Rilascio Desiderata",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "519": {
+        "type": "um",
+        "label": "12. Referente Funzionale",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "521": {
+        "type": "cd",
+        "label": "12. Must have / Nice to have",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Must have",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Nice to have",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "555": {
+        "type": "pg",
+        "label": "12. Descrizione Requisito",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "579": {
+        "type": "tl",
+        "label": "Disponibilità soluzioni di mercato",
+        "description": "Indicare, se presenti, eventuali soluzioni di mercato che assolvono alle funzionalità (o parte di esse) previste dall'iniziativa",
+        "validation": {
+          "rq": false
+        },
+        "choices": [],
+        "questionKey": ""
+      },
+      "580": {
+        "type": "cd",
+        "label": "Business Development",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "jiraField": "customfield_10450",
+        "questionKey": ""
+      },
+      "581": {
+        "type": "cd",
+        "label": "Efficiency",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "10904",
+            "label": "1 - Molto Basso"
+          },
+          {
+            "id": "10905",
+            "label": "2 - Basso"
+          },
+          {
+            "id": "10972",
+            "label": "3 - Medio/Basso"
+          },
+          {
+            "id": "10906",
+            "label": "4 - Medio"
+          },
+          {
+            "id": "11074",
+            "label": "5 - Medio/Alto"
+          },
+          {
+            "id": "10973",
+            "label": "6 - Alto"
+          },
+          {
+            "id": "10974",
+            "label": "7 - Molto Alto"
+          }
+        ],
+        "questionKey": ""
+      },
+      "582": {
+        "type": "cd",
+        "label": "Compliancy",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "jiraField": "customfield_10452",
+        "questionKey": ""
+      },
+      "583": {
+        "type": "cd",
+        "label": "Technology update/upgrade",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "jiraField": "customfield_10453",
+        "questionKey": ""
+      },
+      "584": {
+        "type": "cs",
+        "label": "2. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "585": {
+        "type": "cs",
+        "label": "3. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "586": {
+        "type": "cs",
+        "label": "4. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "587": {
+        "type": "cs",
+        "label": "5. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "588": {
+        "type": "cs",
+        "label": "6. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "589": {
+        "type": "cs",
+        "label": "7. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "590": {
+        "type": "cs",
+        "label": "8. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "591": {
+        "type": "cs",
+        "label": "9. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "592": {
+        "type": "cs",
+        "label": "10. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "593": {
+        "type": "cs",
+        "label": "11. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "594": {
+        "type": "cs",
+        "label": "12. Censire un altro requisito?",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Si",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "No",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      },
+      "595": {
+        "type": "cd",
+        "label": "Tempo massimo indisponibilità della soluzione",
+        "description": "",
+        "validation": {
+          "rq": false
+        },
+        "choices": [
+          {
+            "id": "1",
+            "label": "Meno di 4 ore",
+            "other": false
+          },
+          {
+            "id": "2",
+            "label": "Tra 4 ore e 12 ore",
+            "other": false
+          },
+          {
+            "id": "3",
+            "label": "Tra 12 ore e 24 ore",
+            "other": false
+          },
+          {
+            "id": "4",
+            "label": "Oltre a 24 ore",
+            "other": false
+          }
+        ],
+        "questionKey": ""
+      }
+    }
+  },
+  "publish": {
+    "jira": {
+      "submitOnCreate": false
+    },
+    "portal": {
+      "portalRequestTypeIds": [
+        270
+      ],
+      "submitOnCreate": false,
+      "validateOnCreate": false
+    }
+  },
+  "state": {
+    "visibility": "i",
+    "status": "o",
+    "answers": {
+      "4": {
+        "text": ""
+      },
+      "12": {
+        "text": ""
+      },
+      "16": {
+        "text": ""
+      },
+      "29": {
+        "text": ""
+      },
+      "30": {
+        "text": ""
+      },
+      "31": {
+        "text": ""
+      },
+      "315": {
+        "text": ""
+      },
+      "333": {
+        "text": ""
+      },
+      "334": {
+        "text": ""
+      },
+      "335": {
+        "text": ""
+      },
+      "336": {
+        "text": ""
+      },
+      "337": {
+        "text": ""
+      },
+      "338": {
+        "text": ""
+      },
+      "339": {
+        "text": ""
+      },
+      "340": {
+        "text": ""
+      },
+      "457": {
+        "date": ""
+      },
+      "458": {
+        "text": "",
+        "choices": []
+      },
+      "459": {
+        "text": "",
+        "choices": []
+      },
+      "462": {
+        "date": ""
+      },
+      "463": {
+        "users": []
+      },
+      "465": {
+        "text": "",
+        "choices": []
+      },
+      "466": {
+        "date": ""
+      },
+      "467": {
+        "users": []
+      },
+      "469": {
+        "text": "",
+        "choices": []
+      },
+      "471": {
+        "text": ""
+      },
+      "473": {
+        "date": ""
+      },
+      "474": {
+        "users": []
+      },
+      "476": {
+        "text": "",
+        "choices": []
+      },
+      "477": {
+        "date": ""
+      },
+      "478": {
+        "users": []
+      },
+      "480": {
+        "text": "",
+        "choices": []
+      },
+      "483": {
+        "date": ""
+      },
+      "484": {
+        "users": []
+      },
+      "486": {
+        "text": "",
+        "choices": []
+      },
+      "487": {
+        "date": ""
+      },
+      "488": {
+        "users": []
+      },
+      "490": {
+        "text": "",
+        "choices": []
+      },
+      "491": {
+        "date": ""
+      },
+      "492": {
+        "users": []
+      },
+      "494": {
+        "text": "",
+        "choices": []
+      },
+      "495": {
+        "date": ""
+      },
+      "496": {
+        "users": []
+      },
+      "498": {
+        "text": "",
+        "choices": []
+      },
+      "499": {
+        "date": ""
+      },
+      "500": {
+        "users": []
+      },
+      "502": {
+        "text": "",
+        "choices": []
+      },
+      "503": {
+        "date": ""
+      },
+      "504": {
+        "users": []
+      },
+      "506": {
+        "text": "",
+        "choices": []
+      },
+      "513": {
+        "text": ""
+      },
+      "514": {
+        "date": ""
+      },
+      "515": {
+        "users": []
+      },
+      "517": {
+        "text": "",
+        "choices": []
+      },
+      "518": {
+        "date": ""
+      },
+      "519": {
+        "users": []
+      },
+      "521": {
+        "text": "",
+        "choices": []
+      },
+      "555": {
+        "text": ""
+      },
+      "579": {
+        "text": ""
+      },
+      "580": {
+        "text": "",
+        "choices": []
+      },
+      "581": {
+        "text": "",
+        "choices": []
+      },
+      "582": {
+        "text": "",
+        "choices": []
+      },
+      "583": {
+        "text": "",
+        "choices": []
+      },
+      "584": {
+        "text": "",
+        "choices": []
+      },
+      "585": {
+        "text": "",
+        "choices": []
+      },
+      "586": {
+        "text": "",
+        "choices": []
+      },
+      "587": {
+        "text": "",
+        "choices": []
+      },
+      "588": {
+        "text": "",
+        "choices": []
+      },
+      "589": {
+        "text": "",
+        "choices": []
+      },
+      "590": {
+        "text": "",
+        "choices": []
+      },
+      "591": {
+        "text": "",
+        "choices": []
+      },
+      "592": {
+        "text": "",
+        "choices": []
+      },
+      "593": {
+        "text": "",
+        "choices": []
+      },
+      "594": {
+        "text": "",
+        "choices": []
+      },
+      "595": {
+        "text": "",
+        "choices": []
+      }
+    }
+  }
+}
